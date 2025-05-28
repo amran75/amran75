@@ -76,7 +76,7 @@ My tech stack includes the .NET ecosystem, Angular, AWS cloud, and DevOps tools 
 👉 Check them out on my [Projects](https://sites.google.com/view/amranhossain/projects)
 
 ## 📄 Resume 
-[![Resume](https://img.shields.io/badge/Resume-Download-blue?logo=read-the-docs)](https://your-link-to-resume.com)
+[![Resume](https://img.shields.io/badge/Resume-Download-blue?logo=read-the-docs)](https://drive.google.com/file/d/1shkGJrUenbOsUHO9TK3u37CeEEJjdNQP/view)
  
 ## 🤝 Let's Connect 
 [![Email](https://img.shields.io/badge/Email-amranuiucse@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amranuiucse@gmail.com)
