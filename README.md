@@ -15,40 +15,18 @@ My tech stack includes the .NET ecosystem, Angular, AWS cloud, and DevOps tools 
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
 ![ERP](https://img.shields.io/badge/ERP-3A3A3A?style=flat)
 ![Healthcare](https://img.shields.io/badge/Healthcare-0078D4?style=flat)
- 
+
 ## 🔧 Tech Toolbox
-
-#### Programming Languages  
-`C#` `Python` `TypeScript` `JavaScript`
-#### Frameworks, ORM & Libraries  
-`ASP.NET Core` `.NET Core Web API`  `Entity Framework` `Dapper`  `Angular` `jQuery` `TailwindCSS` `Bootstrap`
-#### Architecture & Design Patterns  
-`SOLID Principles` `N-Layer` `N-Tier` `Clean Architecture` `MVC` `Monolith` 
-
-#### Messaging & Communication Protocols  
-`Redis` `RabbitMQ` `gRPC`
-
-#### Cloud Platforms & Services  
-`AWS` (Lambda, EC2, ECS, S3, CodePipeline, CloudFormation, API Gateway, Amplify, Step Functions)
-
-#### Containerization & CI/CD  
-`Docker` `CI/CD` `GitHub Actions`
-
-#### Databases & Data Storage  
-`ACID` `SQL Server` `PostgreSQL` `MySQL` `DynamoDB` `Azure Cosmos DB`
-
-#### Security  
-`OAuth`  `JWT` `IAM` `AWS Cognito`
-
-#### Testing  
-`Unit Testing` `Postman` `Swagger`
-
-#### Project Management & Documentation  
-`GitHub Projects` `JIRA`
-
-#### Tools & Utilities  
-`Git` `GitHub` `SVN` `Crystal Reports` `ITextSharp` `IIS` `NGINX`
- 
+* **Languages**: `C#`, `Python`, `TypeScript`, `JavaScript`
+* **Frameworks & Libraries**: `ASP.NET Core`, `Angular`, `Entity Framework`, `Dapper`, `Bootstrap`, `TailwindCSS`
+* **Architecture**: `SOLID`, `MVC`, `Clean Architecture`, `N-Tier`, `Monolith`
+* **Messaging & Protocols**: `RabbitMQ`, `Redis`, `gRPC`
+* **Cloud & DevOps**: `AWS`, `Docker`, `GitHub Actions`, `CI/CD`
+* **Databases**: `SQL Server`, `PostgreSQL`, `MySQL`, `DynamoDB`, `Cosmos DB`
+* **Security**: `OAuth`, `JWT`, `IAM`, `AWS Cognito`
+* **Testing & Docs**: `Postman`, `Swagger`, `Unit Testing`
+* **Tools**: `Git`, `GitHub`, `JIRA`, `IIS`, `NGINX`
+  
 ## 💼 Professional Experience
 
 **Full Stack Software Engineer/ Izaan Solutions Inc. (Remote)**  
@@ -100,8 +78,7 @@ My tech stack includes the .NET ecosystem, Angular, AWS cloud, and DevOps tools 
 ## 📄 Resume 
 [![Resume](https://img.shields.io/badge/Resume-Download-blue?logo=read-the-docs)](https://your-link-to-resume.com)
  
-## 🤝 Let's Connect
-
+## 🤝 Let's Connect 
 [![Email](https://img.shields.io/badge/Email-amranuiucse@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amranuiucse@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-amranhossain75-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amranhossain75/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-34D399?style=for-the-badge&logo=google&logoColor=white)](https://sites.google.com/view/amranhossain/)
