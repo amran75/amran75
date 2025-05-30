@@ -19,13 +19,14 @@ My tech stack includes the .NET ecosystem, Angular, AWS cloud, and DevOps tools 
 ## 🔧 Tech Toolbox
 * **Languages**: `C#`, `Python`, `TypeScript`, `JavaScript`
 * **Frameworks & Libraries**: `ASP.NET Core`, `Angular`, `Entity Framework`, `Dapper`, `Bootstrap`, `TailwindCSS`
-* **Architecture**: `SOLID`, `MVC`, `Clean Architecture`, `N-Tier`, `Monolith`
-* **Messaging & Protocols**: `RabbitMQ`, `Redis`, `gRPC`
+* **Architecture**: `SOLID`, `MVC`, `Clean Architecture`, `N-Tier`, `Monolith`, `REST`, `Microservice`
+* **Messaging & Protocols**: `RabbitMQ`, `gRPC`
 * **Cloud & DevOps**: `AWS`, `Docker`, `GitHub Actions`, `CI/CD`
-* **Databases**: `SQL Server`, `PostgreSQL`, `MySQL`, `DynamoDB`, `Cosmos DB`
+* **Databases**: `SQL Server`, `PostgreSQL`, `MySQL`, `DynamoDB`, `Azure Cosmos DB`, `Redis`,
 * **Security**: `OAuth`, `JWT`, `IAM`, `AWS Cognito`
 * **Testing & Docs**: `Postman`, `Swagger`, `Unit Testing`
 * **Tools**: `Git`, `GitHub`, `JIRA`, `IIS`, `NGINX`
+* **Project Management**: Scrum, JIRA, Trello
   
 ## 💼 Professional Experience
 
