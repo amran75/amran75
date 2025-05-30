@@ -24,9 +24,8 @@ My tech stack includes the .NET ecosystem, Angular, AWS cloud, and DevOps tools 
 * **Cloud & DevOps**: `AWS`, `Docker`, `GitHub Actions`, `CI/CD`
 * **Databases**: `SQL Server`, `PostgreSQL`, `MySQL`, `DynamoDB`, `Azure Cosmos DB`, `Redis`,
 * **Security**: `OAuth`, `JWT`, `IAM`, `AWS Cognito`
-* **Testing & Docs**: `Postman`, `Swagger`, `Unit Testing`
-* **Tools**: `Git`, `GitHub`, `JIRA`, `IIS`, `NGINX`
-* **Project Management**: Scrum, JIRA, Trello
+* **Testing & Docs**: `Postman`, `Swagger`, `Unit Testing` 
+* **Project Management Tools**: `Git`, `GitHub`, `IIS`, `NGINX`, `Scrum`, JIRA, Trello
   
 ## 💼 Professional Experience
 
